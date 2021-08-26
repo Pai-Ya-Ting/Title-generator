@@ -8,6 +8,9 @@ Here we use pre-trained Transformer to do text summarization task.
 We developed a dashboard for researchers to utilize our service. It is hosted on Heroku.
 When users enter the abstracts, the system will output three titles for selection.
 
+<img width="360" alt="Screen Shot 2021-08-27 at 1 05 38 AM" src="https://user-images.githubusercontent.com/12762532/131005831-6b23a6e8-9fdd-434c-abb6-46ee4157c5df.png">
+
+<img width="360" alt="Screen Shot 2021-08-27 at 1 08 23 AM" src="https://user-images.githubusercontent.com/12762532/131005865-82b1206c-6f86-4e4c-95b3-6211d34337f6.png">
 
 
 * Responsibilities:
